@@ -1,0 +1,51 @@
+.box-2 {
+  background-color: #fff;
+  max-width: 682px;
+}
+
+.making_text {
+  font-size: 26px;
+  padding-top: 24px;
+  padding-bottom: 16px;
+}
+
+.making_text_2 {
+  font-size: 18px;
+  padding-bottom: 15px;
+}
+
+.handlebars {
+  display: flex;
+}
+.handlebars .expres {
+  color: #8695a4;
+  font-size: 18px;
+  padding-left: 20px;
+}
+
+.design_1 {
+  padding-bottom: 20px;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.text {
+  font-size: 44px;
+  line-height: 60px;
+  padding-bottom: 55px;
+}
+
+.content_6 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 35px;
+  margin: 35px 0;
+}
+
+.rights {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin-bottom: 54px;
+}/*# sourceMappingURL=main.css.map */
